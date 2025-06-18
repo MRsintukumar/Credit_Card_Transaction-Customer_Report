@@ -1,2 +1,2 @@
-# Credit_Card_Transaction-Customer_Report
-Credit_Card_Dashboard
+# Credit_Card_Financial_Dashboard
+Power Bi Dashboard
